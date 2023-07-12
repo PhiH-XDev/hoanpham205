@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Honorius Pham</h1>
 <h3 align="center">Software Engineer graduated from Open University</h3>
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/39Cg.gif">
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/39Cg.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hoanpham205&label=Profile%20views&color=0e75b6&style=flat" alt="hoanpham205" /> </p>
 
